@@ -9,5 +9,8 @@
             "email": "sweedlejam@gmail.com"
         }
     ],
+    "bin": [
+  	"bin/brain-games"
+],
     "require": {}
 }
